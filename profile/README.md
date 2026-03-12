@@ -1,2 +1,1 @@
-# .github
-Public information about the Organization
+ [Lab Sync](https://lab-sync.com)
